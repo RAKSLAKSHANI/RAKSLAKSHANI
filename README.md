@@ -8,7 +8,7 @@
  
 📞 +94 750 720 233  
 📧 sanduniranawaka2000410@gmail.com  
-🔗 [LinkedIn](#) | [GitHub](#) *(Insert actual URLs)*  
+🔗 [LinkedIn](#) |  
 
 ---
 
