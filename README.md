@@ -45,6 +45,31 @@ I’m a final-year Information Technology undergraduate at General Sir John Kote
 2022 – 2025  
 
 ---
+## 🚀 Projects
+
+### 📌 Restaurant Table Reservation System  
+🔗 [Source Code](https://github.com/RAKSLAKSHANI/Resturant-table-reservation-system-FYP)  
+*Jan 2025 – Ongoing*  
+A .NET-based full-featured web application supporting multi-restaurant booking, loyalty rewards, and real-time table availability.  
+**Tech Stack:** .NET, SQL, REST APIs, Axios
+
+### 📌 OrangeHRM Login Automation  
+🔗 [Source Code](https://github.com/RAKSLAKSHANI/OrangeHRM-Login-Automation-Selinium-with-Java-main)  
+*Feb 2025 – Mar 2025*  
+Automated login functionality testing using Selenium WebDriver for the OrangeHRM application.  
+**Tech Stack:** Selenium WebDriver, Java, ChromeDriver
+
+### 📌 Food Delivery Website  
+🔗 [Source Code](https://github.com/RAKSLAKSHANI/Food-Delivery-Web-Site-)  
+*Jan 2025 – Feb 2025*  
+Developed a full-stack delivery platform including user authentication, order tracking, and admin panel.  
+**Tech Stack:** React, Node.js, Express, MongoDB, REST APIs
+
+### 📌 KDU MI Medical Approval System  
+🔗 [Source Code](https://github.com/RAKSLAKSHANI/KDU-Mi)  
+*May 2024 – Nov 2024*  
+Tested and validated a PHP-based medical report generation system for KDU.  
+**Tech Stack:** PHP, HTML, CSS, JavaScript, XAMPP
 
 ## 🛠️ Technical Skills
 
@@ -64,29 +89,6 @@ I’m a final-year Information Technology undergraduate at General Sir John Kote
 
 ---
 
-## 🚀 Projects
-
-### 📌 [Restaurant Table Reservation System](#)
-*Jan 2025 – Ongoing*  
-A .NET-based full-featured web application supporting multi-restaurant booking, loyalty rewards, and real-time table availability.  
-**Tech Stack:** .NET (Frontend & Backend), SQL, REST APIs, Axios
-
-### 📌 [OrangeHRM Login Automation](#)
-*Feb 2025 – Mar 2025*  
-Automated login functionality testing using Selenium WebDriver for the OrangeHRM application.  
-**Tech Stack:** Selenium WebDriver, Java, ChromeDriver
-
-### 📌 [Food Delivery Website](#)
-*Jan 2025 – Feb 2025*  
-Developed a full-stack delivery platform including user authentication, order tracking, and admin panel.  
-**Tech Stack:** React, Node.js, Express, MongoDB, REST APIs
-
-### 📌 [KDU MI Medical Approval System](#)
-*May 2024 – Nov 2024*  
-Tested and validated a PHP-based medical report generation system for KDU.  
-**Tech Stack:** PHP, HTML, CSS, JavaScript, XAMPP
-
----
 
 
 ## 🤝 Let's Connect
