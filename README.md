@@ -94,19 +94,6 @@ Tested and validated a PHP-based medical report generation system for KDU.
 
 ---
 
-## 🌱 Volunteering
-
-- Organizing Committee Member – CSSL GenZ Chapter, KDU (2024–2025)  
-- Member – Rotaract Club of KDUSC (2022–2023)
-
----
-
-## 🏆 Sports
-
-- School Netball Team Member (2015–2017)  
-- University Chess Team Member (2022–2024)
-
----
 
 ## 🤝 Let's Connect
 
