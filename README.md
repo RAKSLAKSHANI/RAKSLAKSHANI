@@ -43,12 +43,6 @@ I’m a final-year Information Technology undergraduate at General Sir John Kote
 **BSc. in Information Technology**  
 *General Sir John Kotelawala Defence University*  
 2022 – 2025  
-**CGPA:** 3.2  
-
-**GCE Advanced Level – Bio Science**  
-*Thelijjawila Central College*  
-2017 – 2019  
-**Results:** 2C’s, 1S
 
 ---
 
